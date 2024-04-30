@@ -9,7 +9,7 @@
 
 int main() {
     Game game;
-    
+
     game.Initialize("./map.txt");
     game.Start();
 
