@@ -1,4 +1,4 @@
-#include "./game_manager.h"
+#include "./headers/game_manager.h"
 
 void GameManager::AddItem(int n){
     this->itemCounter += n;

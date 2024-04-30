@@ -1,4 +1,4 @@
-#include "./Game.h"
+#include "./headers/Game.h"
 #include <iostream>
 #include <conio.h>
 #include <fstream>
@@ -8,8 +8,8 @@
 #include <vector>
 #include <locale>
 #include <codecvt>
-#include "./map.h"
-#include "./game_manager.h"
+#include "./headers/map.h"
+#include "./headers/game_manager.h"
 
 Game::Game(){
     // std::cout<<"Game started"<<std::endl;

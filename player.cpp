@@ -1,5 +1,5 @@
 #include<iostream>
-#include "./player.h"
+#include "./headers/player.h"
 
 Player::Player(){};
 Player::Player(wchar_t* loc, wchar_t c){

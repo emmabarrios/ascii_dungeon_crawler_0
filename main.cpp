@@ -5,7 +5,7 @@
 #include <vector>
 #include <locale>
 #include <codecvt>
-#include "./game.h"
+#include "./headers/game.h"
 
 int main() {
     Game game;
